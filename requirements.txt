@@ -1,0 +1,4 @@
+geopandas
+openai
+jupyter
+qgis
