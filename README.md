@@ -1,3 +1,11 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/RomanViatkin/GeoAI-Territory)
+![GitHub issues](https://img.shields.io/github/issues/RomanViatkin/GeoAI-Territory)
+![GitHub stars](https://img.shields.io/github/stars/RomanViatkin/GeoAI-Territory?style=social)
+![GitHub forks](https://img.shields.io/github/forks/RomanViatkin/GeoAI-Territory?style=social)
+![License](https://img.shields.io/github/license/RomanViatkin/GeoAI-Territory)
+![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange)
+![Open Source](https://img.shields.io/badge/status-open--source-brightgreen)
+
 # GeoAI-Territory
 
 An open-source demonstration of how modern territorial development can integrate GIS, UAV data, and generative AI for better spatial decision-making.
